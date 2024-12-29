@@ -1,0 +1,177 @@
+[
+    {
+        "name": "HarryPotter",
+        "species": "human",
+        "gender": "male",
+        "house": "Gryffindor",
+        "yearOfBirth": 1980
+    },
+    {
+        "name": "HermioneGranger",
+        "species": "human",
+        "gender": "female",
+        "house": "Gryffindor",
+        "yearOfBirth": 1979
+    },
+    {
+        "name": "RonWeasley",
+        "species": "human",
+        "gender": "male",
+        "house": "Gryffindor",
+        "yearOfBirth": 1980
+    },
+    {
+        "name": "DracoMalfoy",
+        "species": "human",
+        "gender": "male",
+        "house": "Slytherin",
+        "yearOfBirth": 1980
+    },
+    {
+        "name": "MinervaMcGonagall",
+        "species": "human",
+        "gender": "female",
+        "house": "Gryffindor",
+        "yearOfBirth": 1925
+    },
+    {
+        "name": "CedricDiggory",
+        "species": "human",
+        "gender": "male",
+        "house": "Hufflepuff",
+        "yearOfBirth": 1977
+    },
+    {
+        "name": "ChoChang",
+        "species": "human",
+        "gender": "female",
+        "house": "Ravenclaw",
+        "yearOfBirth": ""
+    },
+    {
+        "name": "SeverusSnape",
+        "species": "human",
+        "gender": "male",
+        "house": "Slytherin",
+        "yearOfBirth": 1960
+    },
+    {
+        "name": "RubeusHagrid",
+        "species": "half-giant",
+        "gender": "male",
+        "house": "Gryffindor",
+        "yearOfBirth": 1928
+    },
+    {
+        "name": "NevilleLongbottom",
+        "species": "human",
+        "gender": "male",
+        "house": "Gryffindor",
+        "yearOfBirth": 1980
+    },
+    {
+        "name": "LunaLovegood",
+        "species": "human",
+        "gender": "female",
+        "house": "Ravenclaw",
+        "yearOfBirth": 1981
+    },
+    {
+        "name": "GinnyWeasley",
+        "species": "human",
+        "gender": "female",
+        "house": "Gryffindor",
+        "yearOfBirth": 1981
+    },
+    {
+        "name": "SiriusBlack",
+        "species": "human",
+        "gender": "male",
+        "house": "Gryffindor",
+        "yearOfBirth": 1959
+    },
+    {
+        "name": "RemusLupin",
+        "species": "werewolf",
+        "gender": "male",
+        "house": "Gryffindor",
+        "yearOfBirth": 1960
+    },
+    {
+        "name": "ArthurWeasley",
+        "species": "human",
+        "gender": "male",
+        "house": "Gryffindor",
+        "yearOfBirth": 1950
+    },
+    {
+        "name": "BellatrixLestrange",
+        "species": "human",
+        "gender": "female",
+        "house": "Slytherin",
+        "yearOfBirth": 1951
+    },
+    {
+        "name": "LordVoldemort",
+        "species": "human",
+        "gender": "male",
+        "house": "Slytherin",
+        "yearOfBirth": 1926
+    },
+    {
+        "name": "HoraceSlughorn",
+        "species": "human",
+        "gender": "male",
+        "house": "Slytherin",
+        "yearOfBirth": ""
+    },
+    {
+        "name": "KingsleyShacklebolt",
+        "species": "human",
+        "gender": "male",
+        "house": "",
+        "yearOfBirth": ""
+    },
+    {
+        "name": "DoloresUmbridge",
+        "species": "human",
+        "gender": "female",
+        "house": "Slytherin",
+        "yearOfBirth": ""
+    },
+    {
+        "name": "LuciusMalfoy",
+        "species": "human",
+        "gender": "male",
+        "house": "Slytherin",
+        "yearOfBirth": 1954
+    },
+    {
+        "name": "VincentCrabbe",
+        "species": "human",
+        "gender": "male",
+        "house": "Slytherin",
+        "yearOfBirth": ""
+    },
+    {
+        "name": "GregoryGoyle",
+        "species": "human",
+        "gender": "male",
+        "house": "Slytherin",
+        "yearOfBirth": ""
+    },
+    {
+        "name": "MrsNorris",
+        "species": "cat",
+        "gender": "female",
+        "house": "",
+        "yearOfBirth": ""
+    },
+    {
+        "name": "ArgusFilch",
+        "species": "human",
+        "gender": "male",
+        "house": "",
+        "yearOfBirth": ""
+    }
+]
